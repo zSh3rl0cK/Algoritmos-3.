@@ -51,25 +51,6 @@ Este repositório contém diversas implementações de algoritmos fundamentais e
   - Inserção, remoção e busca em árvore binária de busca (BST)
   - Percursos em pré-ordem, in-ordem e pós-ordem
 
-## 🤝 Contribuição
-
-Sinta-se à vontade para contribuir com melhorias e novos algoritmos! Para contribuir:
-
-1. Faça um fork do repositório.
-2. Crie uma branch para suas alterações:
-   ```bash
-   git checkout -b minha-contribuicao
-   ```
-3. Faça suas alterações e commit:
-   ```bash
-   git commit -m "Adicionando novo algoritmo"
-   ```
-4. Envie as alterações para seu fork:
-   ```bash
-   git push origin minha-contribuicao
-   ```
-5. Abra um Pull Request!
-
 ## 📜 Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
